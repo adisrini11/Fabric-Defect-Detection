@@ -11,10 +11,4 @@ To further enhance the output and make it more accurate, a thresholding function
 
 ![](/Inputs.png)
 
-![](/Features.png)
-
-![](/RPCA%20Output)
-
-![](/Thresholding%20Output)
-
 ![](/Final%20Output)
