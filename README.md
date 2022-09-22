@@ -8,3 +8,13 @@ The system is designed on the idea that the defects in the fabric form a sparse 
 This idea allows us to use a modified version of a statistical tool, Prinicipal Component Analysis (PCA), called the Robust Prinicipal Component Analysis (RPCA), to separate the object (defective region) from the background (non defective region).
 
 To further enhance the output and make it more accurate, a thresholding function was designed. The function classified pixels in the output of RPCA as belonging to the defective or non-defective region.
+
+![](/Inputs.png)
+
+![](/Features.png)
+
+![](/RPCA%20Output)
+
+![](/Thresholding%20Output)
+
+![](/Final%20Output)
