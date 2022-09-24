@@ -10,3 +10,11 @@ This idea allows us to use a modified version of a statistical tool, Prinicipal 
 To further enhance the output and make it more accurate, a thresholding function was designed. The function classified pixels in the output of RPCA as belonging to the defective or non-defective region.
 
 ![](/Inputs.png)
+
+![](/Features.png)
+
+![](/RPCA_Output.png)
+
+![](/Thresholding_Output.png)
+
+![](/Final_Output.png)
